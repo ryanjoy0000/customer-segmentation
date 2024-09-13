@@ -1,2 +1,1 @@
-# customer-segmentation
-Comprehensive Customer Segmentation and Analysis
+# Comprehensive Customer Segmentation and Analysis Suite
